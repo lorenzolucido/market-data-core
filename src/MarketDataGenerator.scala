@@ -10,9 +10,6 @@ import scala.concurrent.duration._
 import scala.collection.immutable.Seq
 
 
-/**
- * Created by lorenzo on 9/6/14.
- */
 object MarketDataGenerator extends App {
   implicit val sys = ActorSystem("Stream")
   implicit val ec = sys.dispatcher
