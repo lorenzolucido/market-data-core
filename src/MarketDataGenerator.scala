@@ -1,62 +1,67 @@
+
+
 /**
  * Created by lorenzo on 9/7/14.
  */
 
+import akka.stream.actor.ActorPublisher
+import events.MarketEvent
+import org.reactivestreams.{Subscriber, Subscription}
 import scala.util.Random
-import akka.actor.ActorSystem
+import akka.actor.{Actor, ActorSystem}
 import akka.stream.{Transformer, MaterializerSettings, FlowMaterializer}
-import akka.stream.scaladsl.Flow
+import akka.stream.scaladsl.{Flow, Duct}
 import scala.concurrent.duration._
-import scala.collection.immutable.Seq
+import scala.collection.immutable
 
 
-object MarketDataGenerator extends App {
-  implicit val sys = ActorSystem("Stream")
-  implicit val ec = sys.dispatcher
-  implicit val marketFlowMaterializer = FlowMaterializer(MaterializerSettings())
+object MarketDataGenerator {
 
-  def randomVariableFlow(interval: Int = 250): Flow[Float] =
-    Flow ( Flow(100.milli, interval.milli, () => Random.nextFloat()).toPublisher )
-  def randomVariable(action: Float => Unit) = randomVariableFlow().foreach(action)
+  lazy val sys = ActorSystem("Stream")
+  lazy val ec = sys.dispatcher
+  lazy val marketFlowMaterializer = FlowMaterializer(MaterializerSettings())(sys)
 
-  case class randomStock(symbol: String){
-    //val vol = Random.nextDouble / 100
-    val initPrice = Math.round(Random.nextFloat() * 100)
-    //var currentPrice = initPrice
-    //def tick = () =>
+  class PriceEvent(val symbol: String, val price: Float) extends MarketEvent
+
+  def randomVariableFlow(initialDelay: Int = 100, interval: Int = 250): Flow[Float] = {
+    val randomPublisher = Flow(initialDelay milli, interval milli, () => Random.nextFloat()).toPublisher()(marketFlowMaterializer)
+
+    Flow(randomPublisher)
   }
 
-  class randomStockPriceTransformer(symbol: String, initPrice: Float) extends Transformer[Float, (String, Float)] {
+  def randomVariable(action: Float => Unit) = randomVariableFlow().foreach(action)(marketFlowMaterializer)
+
+  /**
+   *
+   * Random StockEvent Transformer
+   * Maps a random number to a random event on the stock (trade/quote)
+   */
+  class randToStockEvent(symbol: String, initPrice: Float = 100) extends Transformer[Float, MarketEvent] {
     var currentPrice = initPrice
 
-    def onNext(element: Float): Seq[(String, Float)] = {
+    def onNext(element: Float): immutable.Seq[MarketEvent] = {
       currentPrice = currentPrice * (1 + element / 100)
-      Seq((symbol, currentPrice))
+      val priceEvent = new PriceEvent(symbol, currentPrice)
+      immutable.Seq(priceEvent)
     }
   }
 
-  def randomStockFlow(symbol: String): Flow[(String, Float)] = {
-    val initPrice: Float = 100 //Math.round(Random.nextFloat() * 100)
-    val transf = new randomStockPriceTransformer(symbol, initPrice)
-    val input =
-    //randomVariableFlow().fold(symbol, initPrice)((s, f) => (symbol, s._2 * (1 + f / 100) ) ).toPublisher
-      randomVariableFlow().transform(transf).toPublisher
+
+  def startMarketEventFlow(symbol: String): Flow[MarketEvent] = {
+    val flowTransformer = new randToStockEvent(symbol, 100f)
+    val input = randomVariableFlow()
+      .transform(flowTransformer)
+      .toPublisher()(marketFlowMaterializer)
+
+    //Flow(input).take(15).foreach(println)(marketFlowMaterializer)
     Flow(input)
-
   }
 
-  def randomPrice = (initPrice: Float, vol: Float) => {
-    //val
+  def startRandomStockFlow(symbol: String, action: MarketEvent => Unit): Unit = {
+    val flowTransformer = new randToStockEvent(symbol, 100f)
+    val input = randomVariableFlow()
+      .transform(flowTransformer)
+      .toPublisher()(marketFlowMaterializer)
+    Flow(input).foreach(action)(marketFlowMaterializer)
   }
-
-  override val executionStart: Long = {
-    //randomVariableFlow().take(10).foreach(println)
-    randomStockFlow("AAPL").take(15).foreach(println)
-    //.onComplete(_ => sys.shutdown() )
-
-
-
-    0
-  }
-
 }

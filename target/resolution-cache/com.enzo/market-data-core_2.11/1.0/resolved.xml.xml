@@ -4,7 +4,7 @@
 		module="market-data-core_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20140907120255"
+		publication="20140909212653"
 	>
 		<description>
 		market-data-core
@@ -41,5 +41,6 @@
 		<dependency org="com.lmax" name="disruptor" rev="3.2.0" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.3.4" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-stream-experimental_2.11" rev="0.6" conf="compile->default(compile)"/>
+		<dependency org="org.specs2" name="specs2_2.11" rev="2.4.2" conf="test->default(compile)"/>
 	</dependencies>
 </ivy-module>

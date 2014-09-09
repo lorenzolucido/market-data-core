@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65ee31d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37c394ef
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.2
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.2
 [debug] 	found org.scala-lang#scala-library;2.11.2 in sbt-chain
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->joda-time#joda-time;2.0 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f1d0d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bfa335e
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.0
 [debug] 	local: revision in cache: joda-time#joda-time;2.0
 [debug] 	found joda-time#joda-time;2.0 in sbt-chain
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->joda-time#joda-time;2.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.5 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c96bb3a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70468f86
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.5
 [debug] 	local: revision in cache: org.joda#joda-convert;1.5
 [debug] 	found org.joda#joda-convert;1.5 in sbt-chain
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@346dd6c6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6347e1e9
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	local: revision in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.lmax#disruptor;3.2.0 [compile->default(compile)]
 [info] Resolving com.lmax#disruptor;3.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68bcf800
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27e5d1e3
 [debug] sbt-chain: module revision found in cache: com.lmax#disruptor;3.2.0
 [debug] 	local: revision in cache: com.lmax#disruptor;3.2.0
 [debug] 	found com.lmax#disruptor;3.2.0 in sbt-chain
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.lmax#disruptor;3.2.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.4 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-testkit_2.11;2.3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a22dc0b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a41d175
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.3.4
 [debug] 	local: revision in cache: com.typesafe.akka#akka-testkit_2.11;2.3.4
 [debug] 	found com.typesafe.akka#akka-testkit_2.11;2.3.4 in sbt-chain
@@ -61,7 +61,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.4 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;0.6 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream-experimental_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1052e146
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c5033d0
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream-experimental_2.11;0.6
 [debug] 	local: revision in cache: com.typesafe.akka#akka-stream-experimental_2.11;0.6
 [debug] 	found com.typesafe.akka#akka-stream-experimental_2.11;0.6 in sbt-chain
@@ -70,7 +70,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;0.6 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.5 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6195820b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@442c6cf6
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.5
 [debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.3.5
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.5 in sbt-chain
@@ -79,7 +79,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61bbe71d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f730d1a
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5
 [debug] 	local: revision in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5
 [debug] 	found com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 in sbt-chain
@@ -88,7 +88,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7486bdad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114c0c74
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb;0.5
 [debug] 	local: revision in cache: org.iq80.leveldb#leveldb;0.5
 [debug] 	found org.iq80.leveldb#leveldb;0.5 in sbt-chain
@@ -97,7 +97,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb-api;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3475518a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@530c837c
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb-api;0.5
 [debug] 	local: revision in cache: org.iq80.leveldb#leveldb-api;0.5
 [debug] 	found org.iq80.leveldb#leveldb-api;0.5 in sbt-chain
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;12.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a4d29fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37885e37
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;12.0
 [debug] 	local: revision in cache: com.google.guava#guava;12.0
 [debug] 	found com.google.guava#guava;12.0 in sbt-chain
@@ -115,7 +115,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9bdd5cd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1feae216
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7
 [debug] 	local: revision in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.7 in sbt-chain
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d24a549
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e8ba95b
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni;1.7
 [debug] 	local: revision in cache: org.fusesource.leveldbjni#leveldbjni;1.7
 [debug] 	found org.fusesource.leveldbjni#leveldbjni;1.7 in sbt-chain
@@ -133,7 +133,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.hawtjni#hawtjni-runtime;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ec3724d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fe7801c
 [debug] sbt-chain: module revision found in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8
 [debug] 	local: revision in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8
 [debug] 	found org.fusesource.hawtjni#hawtjni-runtime;1.8 in sbt-chain
@@ -142,7 +142,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11bb0213
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22f70465
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	local: revision in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
@@ -151,7 +151,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;0.4.0.M1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f675cef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3214163e
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;0.4.0.M1
 [debug] 	local: revision in cache: org.reactivestreams#reactive-streams;0.4.0.M1
 [debug] 	found org.reactivestreams#reactive-streams;0.4.0.M1 in sbt-chain
@@ -507,32 +507,212 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47260a93
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ba73bb
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.0
 [debug] 	local: revision in cache: org.scalatest#scalatest_2.11;2.2.0
 [debug] 	found org.scalatest#scalatest_2.11;2.2.0 in sbt-chain
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->default(compile)]
-[info] Resolving org.scala-lang#scala-reflect;2.11.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36c37d11
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.1
-[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.1
-[debug] 	found org.scala-lang#scala-reflect;2.11.1 in sbt-chain
-[debug] 	[2.11.1] org.scala-lang#scala-reflect;2.11.1
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b763dd2
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
-[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
-[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->default(compile)]
+[info] Resolving org.specs2#specs2_2.11;2.4.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@190b46ef
+[debug] sbt-chain: module revision found in cache: org.specs2#specs2_2.11;2.4.2
+[debug] 	local: revision in cache: org.specs2#specs2_2.11;2.4.2
+[debug] 	found org.specs2#specs2_2.11;2.4.2 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.11.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fd999dd
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.2
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.2
+[debug] 	found org.scala-lang#scala-compiler;2.11.2 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a37bfcd
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.2
+[debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
+[debug] 	[2.11.2] org.scala-lang#scala-reflect;2.11.2
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3adb1ab
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73e4953a
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->default(compile)]
+[info] Resolving org.pegdown#pegdown;1.2.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d00772f
+[debug] sbt-chain: module revision found in cache: org.pegdown#pegdown;1.2.1
+[debug] 	local: revision in cache: org.pegdown#pegdown;1.2.1
+[debug] 	found org.pegdown#pegdown;1.2.1 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->default(compile)]
+[info] Resolving org.parboiled#parboiled-java;1.1.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@220e07c9
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-java;1.1.4
+[debug] 	local: revision in cache: org.parboiled#parboiled-java;1.1.4
+[debug] 	found org.parboiled#parboiled-java;1.1.4 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->default(compile)]
+[info] Resolving org.parboiled#parboiled-core;1.1.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e07110b
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.4
+[debug] 	local: revision in cache: org.parboiled#parboiled-core;1.1.4
+[debug] 	found org.parboiled#parboiled-core;1.1.4 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d07aa47
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm;4.1
+[debug] 	found org.ow2.asm#asm;4.1 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-tree;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71984ab4
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-tree;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-tree;4.1
+[debug] 	found org.ow2.asm#asm-tree;4.1 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-analysis;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@697f9ed
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-analysis;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-analysis;4.1
+[debug] 	found org.ow2.asm#asm-analysis;4.1 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-util;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ba142a8
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-util;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-util;4.1
+[debug] 	found org.ow2.asm#asm-util;4.1 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-core_2.11;7.1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dcdc64f
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.1.0
+[debug] 	local: revision in cache: org.scalaz#scalaz-core_2.11;7.1.0
+[debug] 	found org.scalaz#scalaz-core_2.11;7.1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-concurrent_2.11;7.1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@653c1462
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.1.0
+[debug] 	local: revision in cache: org.scalaz#scalaz-concurrent_2.11;7.1.0
+[debug] 	found org.scalaz#scalaz-concurrent_2.11;7.1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-effect_2.11;7.1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@104206c8
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.1.0
+[debug] 	local: revision in cache: org.scalaz#scalaz-effect_2.11;7.1.0
+[debug] 	found org.scalaz#scalaz-effect_2.11;7.1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->default(compile)]
+[info] Resolving org.scalacheck#scalacheck_2.11;1.11.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b69be40
+[debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.11;1.11.3
+[debug] 	local: revision in cache: org.scalacheck#scalacheck_2.11;1.11.3
+[debug] 	found org.scalacheck#scalacheck_2.11;1.11.3 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[info] Resolving org.scala-sbt#test-interface;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51b4589
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
+[info] Resolving org.hamcrest#hamcrest-core;1.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@626a603b
+[debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
+[debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
+[debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
+[info] Resolving org.mockito#mockito-core;1.9.5 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@365d7762
+[debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
+[debug] 	local: revision in cache: org.mockito#mockito-core;1.9.5
+[debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
+[info] Resolving org.objenesis#objenesis;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4655525f
+[debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.0
+[debug] 	local: revision in cache: org.objenesis#objenesis;1.0
+[debug] 	found org.objenesis#objenesis;1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->default(compile)]
+[info] Resolving junit#junit;4.11 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c67f327
+[debug] sbt-chain: module revision found in cache: junit#junit;4.11
+[debug] 	local: revision in cache: junit#junit;4.11
+[debug] 	found junit#junit;4.11 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->default(compile)]
+[info] Resolving org.specs2#classycle;1.4.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ba33309
+[debug] sbt-chain: module revision found in cache: org.specs2#classycle;1.4.3
+[debug] 	local: revision in cache: org.specs2#classycle;1.4.3
+[debug] 	found org.specs2#classycle;1.4.3 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -1100,14 +1280,94 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->default(compile)]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->default(compile)]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->master]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test-internal->default(compile)]
@@ -1182,14 +1442,94 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->default(compile)]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->master]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test-internal->default(compile)]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test-internal->runtime]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test-internal->compile]
-[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -1205,39 +1545,18 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [scala-tool->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [scala-tool->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang#scala-compiler;2.11.2 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.2 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.2
-[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.2
-[debug] 	found org.scala-lang#scala-compiler;2.11.2 in sbt-chain
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [scala-tool->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [scala-tool->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [scala-tool->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.2 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
-[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.2
-[debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
-[debug] 	[2.11.2] org.scala-lang#scala-reflect;2.11.2
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [scala-tool->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [scala-tool->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [scala-tool->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.2 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
-[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
-[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
-[debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
-[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->master]
@@ -1306,23 +1625,75 @@
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar(doc)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.specs2#specs2_2.11;2.4.2!specs2_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.specs2#specs2_2.11;2.4.2!specs2_2.11.jar
+[debug] 	[NOT REQUIRED] org.specs2#specs2_2.11;2.4.2!specs2_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.2!scala-compiler.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.2!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.2!scala-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.pegdown#pegdown;1.2.1!pegdown.jar
+[debug] 	[NOT REQUIRED] org.pegdown#pegdown;1.2.1!pegdown.jar(src)
+[debug] 	[NOT REQUIRED] org.pegdown#pegdown;1.2.1!pegdown.jar(doc)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.4!parboiled-java.jar(src)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.4!parboiled-java.jar(doc)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.4!parboiled-java.jar
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.4!parboiled-core.jar(src)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.4!parboiled-core.jar
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.4!parboiled-core.jar(doc)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm;4.1!asm.jar
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm;4.1!asm.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm;4.1!asm.jar(doc)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar(doc)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(doc)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar(doc)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.11;7.1.0!scalaz-core_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.11;7.1.0!scalaz-core_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.11;7.1.0!scalaz-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-concurrent_2.11;7.1.0!scalaz-concurrent_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-concurrent_2.11;7.1.0!scalaz-concurrent_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-concurrent_2.11;7.1.0!scalaz-concurrent_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.11;7.1.0!scalaz-effect_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.11;7.1.0!scalaz-effect_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.11;7.1.0!scalaz-effect_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.11.3!scalacheck_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.11.3!scalacheck_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.11;1.11.3!scalacheck_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(src)
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(doc)
+[debug] 	[NOT REQUIRED] org.mockito#mockito-core;1.9.5!mockito-core.jar(doc)
+[debug] 	[NOT REQUIRED] org.mockito#mockito-core;1.9.5!mockito-core.jar
+[debug] 	[NOT REQUIRED] org.mockito#mockito-core;1.9.5!mockito-core.jar(src)
+[debug] 	[NOT REQUIRED] org.objenesis#objenesis;1.0!objenesis.jar(doc)
+[debug] 	[NOT REQUIRED] org.objenesis#objenesis;1.0!objenesis.jar(src)
+[debug] 	[NOT REQUIRED] org.objenesis#objenesis;1.0!objenesis.jar
+[debug] 	[NOT REQUIRED] junit#junit;4.11!junit.jar(doc)
+[debug] 	[NOT REQUIRED] junit#junit;4.11!junit.jar(src)
+[debug] 	[NOT REQUIRED] junit#junit;4.11!junit.jar
+[debug] 	[NOT REQUIRED] org.specs2#classycle;1.4.3!classycle.jar
+[debug] 	[NOT REQUIRED] org.specs2#classycle;1.4.3!classycle.jar(src)
+[debug] 	[NOT REQUIRED] org.specs2#classycle;1.4.3!classycle.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
-[debug] :: resolution report :: resolve 498ms :: artifacts dl 66ms
+[debug] :: resolution report :: resolve 964ms :: artifacts dl 83ms
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 compile produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 runtime produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 test produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test.xml
@@ -1336,4 +1707,4 @@
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 docs produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-docs.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 pom produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-pom.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 scala-tool produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (498ms resolve - 66ms download)
+[debug] 	resolve done (964ms resolve - 83ms download)
