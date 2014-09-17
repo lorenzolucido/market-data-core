@@ -1,3 +1,6 @@
+import scoverage.ScoverageSbtPlugin.instrumentSettings
+
+
 name := "market-data-core"
 
 version := "1.0"
@@ -28,6 +31,8 @@ libraryDependencies ++= Seq(
 
 instrumentSettings
 
-ScoverageKeys.minimumCoverage := 70
+CoverallsPlugin.coverallsSettings
 
-ScoverageKeys.failOnMinimumCoverage := false
+ScoverageKeys.minimumCoverage := 80
+
+ScoverageKeys.failOnMinimumCoverage := true
