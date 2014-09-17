@@ -26,3 +26,8 @@ libraryDependencies ++= Seq(
   "io.kamon" %% "kamon-core" % "0.3.2"
 )
 
+instrumentSettings
+
+ScoverageKeys.minimumCoverage := 70
+
+ScoverageKeys.failOnMinimumCoverage := false

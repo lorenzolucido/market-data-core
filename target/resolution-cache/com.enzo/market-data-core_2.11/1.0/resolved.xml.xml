@@ -4,7 +4,7 @@
 		module="market-data-core_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20140917214809"
+		publication="20140917215830"
 	>
 		<description>
 		market-data-core
@@ -24,6 +24,8 @@
 		<conf name="docs" visibility="public" description=""/>
 		<conf name="pom" visibility="public" description=""/>
 		<conf name="scala-tool" visibility="private" description=""/>
+		<conf name="scoverage" visibility="private" description=""/>
+		<conf name="scoverage-test" visibility="private" description="" extends="scoverage"/>
 	</configurations>
 	<publications>
 		<artifact name="market-data-core_2.11" type="pom" ext="pom" conf="pom"/>
@@ -44,5 +46,6 @@
 		<dependency org="org.specs2" name="specs2_2.11" rev="2.4.2" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.slick" name="slick_2.11" rev="2.1.0" conf="compile->default(compile)"/>
 		<dependency org="io.kamon" name="kamon-core_2.11" rev="0.3.2" conf="compile->default(compile)"/>
+		<dependency org="org.scoverage" name="scalac-scoverage-plugin_2.11" rev="0.99.7" conf="scoverage->default(compile)"/>
 	</dependencies>
 </ivy-module>
