@@ -25,3 +25,4 @@ libraryDependencies ++= Seq(
   "com.typesafe.slick" %% "slick" % "2.1.0",
   "io.kamon" %% "kamon-core" % "0.3.2"
 )
+
