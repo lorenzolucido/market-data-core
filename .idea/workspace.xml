@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="e23c90aa-8474-43ee-9ed8-e18e20c4c9c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__com_typesafe_slick_slick_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__io_gatling_jsr166e_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__io_kamon_kamon_core_2_11_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__org_aspectj_aspectjrt_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__org_aspectj_aspectjweaver_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__org_hdrhistogram_HdrHistogram_1_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__SBT__org_slf4j_slf4j_api_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aTestApp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/GeneratorSuite.scala" afterPath="$PROJECT_DIR$/test/GeneratorSuite.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MarketDataGenerator.scala" afterPath="$PROJECT_DIR$/src/MarketDataGenerator.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/market-data-core-build.iml" afterPath="$PROJECT_DIR$/project/market-data-core-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market-data-core.iml" afterPath="$PROJECT_DIR$/market-data-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="market-data-core.iws" />
@@ -138,19 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeneratorSuite.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/GeneratorSuite.scala">
+      <file leaf-file-name="aTestApp.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aTestApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="8" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
+            <state line="19" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="688">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aTestApp.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/aTestApp.scala">
+      <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.36657682" vertical-offset="0" max-vertical-offset="742">
+            <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
               <folding />
             </state>
           </provider>
@@ -235,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/driver/SQLServerDriver.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -711,7 +659,11 @@
       <created>1410304164239</created>
       <updated>1410304164239</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="TravisCI Test&#10;">
+      <created>1410960558727</created>
+      <updated>1410960558727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -763,7 +715,8 @@
     <MESSAGE value="Cleaned a comment&#10;" />
     <MESSAGE value="Initial readme&#10;" />
     <MESSAGE value="Fixed market data generator and test&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed market data generator and test&#10;" />
+    <MESSAGE value="TravisCI Test&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="TravisCI Test&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -954,7 +907,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aTestApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.36657682" vertical-offset="0" max-vertical-offset="742">
+        <state line="19" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="688">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
           <folding />
         </state>
       </provider>
