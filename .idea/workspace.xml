@@ -2,89 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="e23c90aa-8474-43ee-9ed8-e18e20c4c9c4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/market-data-core$sources_javadoc_2.10/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/market-data-core$sources_javadoc_2.10/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/market-data-core_2.10/1.0/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/default/market-data-core_2.10/1.0/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core$sources_javadoc_2.10-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-market-data-core_2.10-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.enzo-market-data-core_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/market-data-core-build.iml" afterPath="$PROJECT_DIR$/project/market-data-core-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/com.enzo/market-data-core_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="market-data-core.iws" />
@@ -185,22 +103,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="360" selection-end="360" vertical-scroll-proportion="-3.310345" vertical-offset="0" max-vertical-offset="192">
+            <state line="6" column="40" selection-start="515" selection-end="515" vertical-scroll-proportion="0.1300813" vertical-offset="0" max-vertical-offset="738">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.102564104" vertical-offset="0" max-vertical-offset="780">
+            <state line="5" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
               <folding />
             </state>
           </provider>
@@ -264,11 +182,11 @@
         <option value="$PROJECT_DIR$/src/aTestApp.scala" />
         <option value="$PROJECT_DIR$/src/util/db/SQLServerDriver.scala" />
         <option value="$PROJECT_DIR$/src/driver/SQLServerDriver.scala" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/project/build.properties" />
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -768,7 +686,11 @@
       <created>1410961831204</created>
       <updated>1410961831204</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added scoverage">
+      <created>1410962402748</created>
+      <updated>1410962402748</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -825,7 +747,8 @@
     <MESSAGE value="Added travis image in readme&#10;" />
     <MESSAGE value="Added travis image in readme and build.properties&#10;" />
     <MESSAGE value="added scala version in .travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added scala version in .travis.yml" />
+    <MESSAGE value="added scoverage" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scoverage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1004,16 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="360" selection-end="360" vertical-scroll-proportion="-3.310345" vertical-offset="0" max-vertical-offset="192">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
@@ -1037,7 +950,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.102564104" vertical-offset="0" max-vertical-offset="780">
+        <state line="5" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="40" selection-start="515" selection-end="515" vertical-scroll-proportion="0.1300813" vertical-offset="0" max-vertical-offset="738">
           <folding />
         </state>
       </provider>

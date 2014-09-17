@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lorenzolucido/market-data-core.svg?branch=master)](https://travis-ci.org/lorenzolucido/market-data-core)
+[![Build Status](https://travis-ci.org/lorenzolucido/market-data-core.svg?branch=master)](https://travis-ci.org/lorenzolucido/market-data-core) [![Coverage Status](https://coveralls.io/repos/lorenzolucido/market-data-core/badge.png)](https://coveralls.io/r/lorenzolucido/market-data-core)
 
 # Market Data Core project #
 
