@@ -4,7 +4,7 @@
 		module="market-data-core_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20140909212653"
+		publication="20140914200637"
 	>
 		<description>
 		market-data-core
@@ -42,5 +42,7 @@
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.3.4" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-stream-experimental_2.11" rev="0.6" conf="compile->default(compile)"/>
 		<dependency org="org.specs2" name="specs2_2.11" rev="2.4.2" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.slick" name="slick_2.11" rev="2.1.0" conf="compile->default(compile)"/>
+		<dependency org="io.kamon" name="kamon-core_2.11" rev="0.3.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

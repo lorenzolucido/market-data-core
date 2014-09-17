@@ -7,10 +7,10 @@ scalaVersion := "2.11.2"
 organization := "com.enzo"
 
 // set the main Scala source directory to be <base>/src
-scalaSource in Compile := baseDirectory.value / "src"
+scalaSource in Compile := (baseDirectory.value / "src")
 
 // set the Scala test source directory to be <base>/test
-scalaSource in Test := baseDirectory.value / "test"
+scalaSource in Test := (baseDirectory.value / "test")
 
 
 libraryDependencies ++= Seq(
@@ -21,5 +21,7 @@ libraryDependencies ++= Seq(
   "com.lmax" % "disruptor" % "3.2.0",
   "com.typesafe.akka" % "akka-testkit_2.11"  % "2.3.4",
   "com.typesafe.akka" %% "akka-stream-experimental" % "0.6",
-  "org.specs2" %% "specs2" % "2.4.2" % "test"
+  "org.specs2" %% "specs2" % "2.4.2" % "test",
+  "com.typesafe.slick" %% "slick" % "2.1.0",
+  "io.kamon" %% "kamon-core" % "0.3.2"
 )

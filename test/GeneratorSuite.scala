@@ -14,7 +14,7 @@ class GeneratorSuite extends Specification {
   "The RandomMarketDataGenerator" should {
     val testActor = TestProbe()(system)
 
-    "generate some random stock flow" in {
+    "=> generate some random stock flow" in {
       val symbol = "AAPL"
       val numElements = 3
 
@@ -22,8 +22,8 @@ class GeneratorSuite extends Specification {
         .take(numElements)
         .foreach( msg => testActor.ref ! msg.symbol )(mat)
 
-
-     util.Try(1 to numElements foreach { s => testActor.expectMsg(1500.milli, symbol) }) must beSuccessfulTry
+      //system.actorSelection("/user/").resolveOne()(2).andThen({case x if x.isSuccess => println(x.get.)})
+      util.Try(1 to numElements foreach { s => testActor.expectMsg(1500.milli, symbol) }) must beSuccessfulTry
     }
 
   }

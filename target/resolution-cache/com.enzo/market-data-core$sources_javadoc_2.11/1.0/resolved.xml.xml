@@ -4,7 +4,7 @@
 		module="market-data-core$sources_javadoc_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20140910064538"
+		publication="20140914200314"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
@@ -91,6 +91,34 @@
 		<dependency org="org.reactivestreams" name="reactive-streams" rev="0.4.0.M1" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
 			<artifact name="reactive-streams" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 			<artifact name="reactive-streams" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="com.typesafe.slick" name="slick_2.11" rev="2.1.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="slick_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="slick_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.slf4j" name="slf4j-api" rev="1.6.4" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="slf4j-api" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="slf4j-api" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="io.kamon" name="kamon-core_2.11" rev="0.3.2" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="kamon-core_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="kamon-core_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.aspectj" name="aspectjrt" rev="1.7.4" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="aspectjrt" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="aspectjrt" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.aspectj" name="aspectjweaver" rev="1.7.4" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="aspectjweaver" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="aspectjweaver" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.hdrhistogram" name="HdrHistogram" rev="1.0.8" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="HdrHistogram" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="HdrHistogram" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="io.gatling" name="jsr166e" rev="1.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="jsr166e" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="jsr166e" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 		</dependency>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.0" transitive="false" conf="test->default(compile);test-internal->default(compile)">
 			<artifact name="scalatest_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>

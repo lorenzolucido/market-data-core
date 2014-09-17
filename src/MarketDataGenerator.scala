@@ -4,13 +4,11 @@
  * Created by lorenzo on 9/7/14.
  */
 
-import akka.stream.actor.ActorPublisher
 import events.MarketEvent
-import org.reactivestreams.{Subscriber, Subscription}
 import scala.util.Random
-import akka.actor.{Actor, ActorSystem}
+import akka.actor.ActorSystem
 import akka.stream.{Transformer, MaterializerSettings, FlowMaterializer}
-import akka.stream.scaladsl.{Flow, Duct}
+import akka.stream.scaladsl.Flow
 import scala.concurrent.duration._
 import scala.collection.immutable
 
@@ -19,17 +17,17 @@ object MarketDataGenerator {
 
   lazy val sys = ActorSystem("Stream")
   lazy val ec = sys.dispatcher
-  lazy val marketFlowMaterializer = FlowMaterializer(MaterializerSettings())(sys)
+  implicit val marketFlowMaterializer = FlowMaterializer(MaterializerSettings())(sys)
 
   class PriceEvent(val symbol: String, val price: Float) extends MarketEvent
 
   def randomVariableFlow(initialDelay: Int = 100, interval: Int = 250): Flow[Float] = {
-    val randomPublisher = Flow(initialDelay milli, interval milli, () => Random.nextFloat()).toPublisher()(marketFlowMaterializer)
+    val randomPublisher = Flow(initialDelay milli, interval milli, () => Random.nextFloat()).toPublisher()
 
     Flow(randomPublisher)
   }
 
-  def randomVariable(action: Float => Unit) = randomVariableFlow().foreach(action)(marketFlowMaterializer)
+  def randomVariable(action: Float => Unit) = randomVariableFlow().foreach(action)
 
   /**
    *
@@ -47,13 +45,12 @@ object MarketDataGenerator {
   }
 
 
-  def startMarketEventFlow(symbol: String): Flow[MarketEvent] = {
-    val flowTransformer = new randToStockEvent(symbol, 100f)
+  def startMarketEventFlow(symbol: String, initPrice: Float = 100): Flow[MarketEvent] = {
+    val flowTransformer = new randToStockEvent(symbol, initPrice)
     val input = randomVariableFlow()
       .transform(flowTransformer)
-      .toPublisher()(marketFlowMaterializer)
+      .toPublisher()
 
-    //Flow(input).take(15).foreach(println)(marketFlowMaterializer)
     Flow(input)
   }
 
@@ -62,6 +59,6 @@ object MarketDataGenerator {
     val input = randomVariableFlow()
       .transform(flowTransformer)
       .toPublisher()(marketFlowMaterializer)
-    Flow(input).foreach(action)(marketFlowMaterializer)
+    Flow(input).foreach(action)
   }
 }

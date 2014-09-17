@@ -7,10 +7,10 @@
 		revision="1.0"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20140910064538"/>
+		date="20140914200314"/>
 	<dependencies>
 		<module organisation="org.specs2" name="specs2_2.11">
-			<revision name="2.4.2" status="release" pubdate="20140831092949" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="18">
+			<revision name="2.4.2" status="release" pubdate="20140831092949" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="25">
 				<license name="MIT-style" url="http://www.opensource.org/licenses/mit-license.php"/>
 				<metadata-artifact status="no" details="" size="4133" time="0" location="/home/lorenzo/.ivy2/cache/org.specs2/specs2_2.11/ivy-2.4.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.4.2/specs2_2.11-2.4.2.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="2.4.2" rev-constraint-default="2.4.2" rev-constraint-dynamic="2.4.2" callerrev="1.0"/>
@@ -28,7 +28,7 @@
 			</revision>
 		</module>
 		<module organisation="org.specs2" name="classycle">
-			<revision name="1.4.3" status="release" pubdate="20140209070639" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://classycle.sourceforge.net/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="39">
+			<revision name="1.4.3" status="release" pubdate="20140209070639" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://classycle.sourceforge.net/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="46">
 				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
 				<metadata-artifact status="no" details="" size="2768" time="0" location="/home/lorenzo/.ivy2/cache/org.specs2/classycle/ivy-1.4.3.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.specs2/classycle/1.4.3/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.4.3" rev-constraint-default="1.4.3" rev-constraint-dynamic="1.4.3" callerrev="1.0"/>
@@ -46,7 +46,7 @@
 			</revision>
 		</module>
 		<module organisation="org.mockito" name="mockito-core">
-			<revision name="1.9.5" status="release" pubdate="20121014060649" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.mockito.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="36">
+			<revision name="1.9.5" status="release" pubdate="20121014060649" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.mockito.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="43">
 				<license name="The MIT License" url="http://code.google.com/p/mockito/wiki/License"/>
 				<metadata-artifact status="no" details="" size="2645" time="0" location="/home/lorenzo/.ivy2/cache/org.mockito/mockito-core/ivy-1.9.5.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.mockito/mockito-core/1.9.5/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.9.5" rev-constraint-default="1.9.5" rev-constraint-dynamic="1.9.5" callerrev="1.0"/>
@@ -64,7 +64,7 @@
 			</revision>
 		</module>
 		<module organisation="org.objenesis" name="objenesis">
-			<revision name="1.0" status="release" pubdate="20070516183006" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://objenesis.googlecode.com/svn/docs/index.html" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="37">
+			<revision name="1.0" status="release" pubdate="20070516183006" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://objenesis.googlecode.com/svn/docs/index.html" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="44">
 				<license name="MIT License" url="http://objenesis.googlecode.com/svn/docs/license.html"/>
 				<metadata-artifact status="no" details="" size="2381" time="0" location="/home/lorenzo/.ivy2/cache/org.objenesis/objenesis/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.objenesis/objenesis/1.0/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
@@ -82,7 +82,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scalaz" name="scalaz-concurrent_2.11">
-			<revision name="7.1.0" status="release" pubdate="20140802001531" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="31">
+			<revision name="7.1.0" status="release" pubdate="20140802001531" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="38">
 				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
 				<metadata-artifact status="no" details="" size="2812" time="0" location="/home/lorenzo/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.1.0/scalaz-concurrent_2.11-7.1.0.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="1.0"/>
@@ -100,7 +100,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scalaz" name="scalaz-effect_2.11">
-			<revision name="7.1.0" status="release" pubdate="20140802001522" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="32">
+			<revision name="7.1.0" status="release" pubdate="20140802001522" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="39">
 				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
 				<metadata-artifact status="no" details="" size="2659" time="0" location="/home/lorenzo/.ivy2/cache/org.scalaz/scalaz-effect_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.1.0/scalaz-effect_2.11-7.1.0.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="1.0"/>
@@ -118,7 +118,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scalaz" name="scalaz-core_2.11">
-			<revision name="7.1.0" status="release" pubdate="20140802001551" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="30">
+			<revision name="7.1.0" status="release" pubdate="20140802001551" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="37">
 				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
 				<metadata-artifact status="no" details="" size="2827" time="0" location="/home/lorenzo/.ivy2/cache/org.scalaz/scalaz-core_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.1.0/scalaz-core_2.11-7.1.0.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="1.0"/>
@@ -136,7 +136,7 @@
 			</revision>
 		</module>
 		<module organisation="org.pegdown" name="pegdown">
-			<revision name="1.2.1" status="release" pubdate="20121128005205" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://pegdown.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="23">
+			<revision name="1.2.1" status="release" pubdate="20121128005205" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://pegdown.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="30">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
 				<metadata-artifact status="no" details="" size="2769" time="0" location="/home/lorenzo/.ivy2/cache/org.pegdown/pegdown/ivy-1.2.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/pegdown/pegdown/1.2.1/pegdown-1.2.1.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.2.1" rev-constraint-default="1.2.1" rev-constraint-dynamic="1.2.1" callerrev="1.0"/>
@@ -154,7 +154,7 @@
 			</revision>
 		</module>
 		<module organisation="org.parboiled" name="parboiled-java">
-			<revision name="1.1.4" status="release" pubdate="20121128002702" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://parboiled.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="24">
+			<revision name="1.1.4" status="release" pubdate="20121128002702" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://parboiled.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="31">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
 				<metadata-artifact status="no" details="" size="3316" time="0" location="/home/lorenzo/.ivy2/cache/org.parboiled/parboiled-java/ivy-1.1.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.4/parboiled-java-1.1.4.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.1.4" rev-constraint-default="1.1.4" rev-constraint-dynamic="1.1.4" callerrev="1.0"/>
@@ -172,7 +172,7 @@
 			</revision>
 		</module>
 		<module organisation="org.ow2.asm" name="asm-util">
-			<revision name="4.1" status="release" pubdate="20121014173900" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="29">
+			<revision name="4.1" status="release" pubdate="20121014173900" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="36">
 				<metadata-artifact status="no" details="" size="4363" time="0" location="/home/lorenzo/.ivy2/cache/org.ow2.asm/asm-util/ivy-4.1.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.ow2.asm/asm-util/4.1/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="4.1" rev-constraint-default="4.1" rev-constraint-dynamic="4.1" callerrev="1.0"/>
 				<artifacts>
@@ -189,7 +189,7 @@
 			</revision>
 		</module>
 		<module organisation="org.ow2.asm" name="asm-analysis">
-			<revision name="4.1" status="release" pubdate="20121014173804" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="28">
+			<revision name="4.1" status="release" pubdate="20121014173804" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="35">
 				<metadata-artifact status="no" details="" size="4371" time="0" location="/home/lorenzo/.ivy2/cache/org.ow2.asm/asm-analysis/ivy-4.1.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.ow2.asm/asm-analysis/4.1/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="4.1" rev-constraint-default="4.1" rev-constraint-dynamic="4.1" callerrev="1.0"/>
 				<artifacts>
@@ -206,7 +206,7 @@
 			</revision>
 		</module>
 		<module organisation="org.ow2.asm" name="asm-tree">
-			<revision name="4.1" status="release" pubdate="20121014173839" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="27">
+			<revision name="4.1" status="release" pubdate="20121014173839" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="34">
 				<metadata-artifact status="no" details="" size="4358" time="0" location="/home/lorenzo/.ivy2/cache/org.ow2.asm/asm-tree/ivy-4.1.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.ow2.asm/asm-tree/4.1/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="4.1" rev-constraint-default="4.1" rev-constraint-dynamic="4.1" callerrev="1.0"/>
 				<artifacts>
@@ -223,7 +223,7 @@
 			</revision>
 		</module>
 		<module organisation="org.ow2.asm" name="asm">
-			<revision name="4.1" status="release" pubdate="20121014173745" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="26">
+			<revision name="4.1" status="release" pubdate="20121014173745" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="33">
 				<metadata-artifact status="no" details="" size="3733" time="0" location="/home/lorenzo/.ivy2/cache/org.ow2.asm/asm/ivy-4.1.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.ow2.asm/asm/4.1/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="4.1" rev-constraint-default="4.1" rev-constraint-dynamic="4.1" callerrev="1.0"/>
 				<artifacts>
@@ -240,7 +240,7 @@
 			</revision>
 		</module>
 		<module organisation="org.parboiled" name="parboiled-core">
-			<revision name="1.1.4" status="release" pubdate="20121128002718" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://parboiled.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="25">
+			<revision name="1.1.4" status="release" pubdate="20121128002718" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://parboiled.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="32">
 				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
 				<metadata-artifact status="no" details="" size="2657" time="0" location="/home/lorenzo/.ivy2/cache/org.parboiled/parboiled-core/ivy-1.1.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.4/parboiled-core-1.1.4.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.1.4" rev-constraint-default="1.1.4" rev-constraint-dynamic="1.1.4" callerrev="1.0"/>
@@ -258,7 +258,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-compiler">
-			<revision name="2.11.2" status="release" pubdate="20140723143926" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="19">
+			<revision name="2.11.2" status="release" pubdate="20140723143926" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="26">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
 				<metadata-artifact status="no" details="" size="3101" time="0" location="/home/lorenzo/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.11.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.2/scala-compiler-2.11.2.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="1.0"/>
@@ -276,7 +276,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
-			<revision name="1.0.2" status="release" pubdate="20140723144535" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="22">
+			<revision name="1.0.2" status="release" pubdate="20140723144535" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="29">
 				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
 				<metadata-artifact status="no" details="" size="2785" time="0" location="/home/lorenzo/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="1.0"/>
@@ -294,7 +294,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang.modules" name="scala-xml_2.11">
-			<revision name="1.0.2" status="release" pubdate="20140520041040" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="21">
+			<revision name="1.0.2" status="release" pubdate="20140520041040" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="28">
 				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
 				<metadata-artifact status="no" details="" size="2976" time="0" location="/home/lorenzo/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/ivy-1.0.2.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.scala-lang.modules/scala-xml_2.11/1.0.2/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="1.0"/>
@@ -312,7 +312,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-reflect">
-			<revision name="2.11.2" status="release" pubdate="20140723143911" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.2/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="20">
+			<revision name="2.11.2" status="release" pubdate="20140723143911" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.2/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="27">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
 				<metadata-artifact status="no" details="" size="2735" time="0" location="/home/lorenzo/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.2/"/>
@@ -330,7 +330,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scalatest" name="scalatest_2.11">
-			<revision name="2.2.0" status="release" pubdate="20140607155048" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="17">
+			<revision name="2.2.0" status="release" pubdate="20140607155048" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="24">
 				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
 				<metadata-artifact status="no" details="" size="4731" time="0" location="/home/lorenzo/.ivy2/cache/org.scalatest/scalatest_2.11/ivy-2.2.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.0/scalatest_2.11-2.2.0.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="2.2.0" rev-constraint-default="2.2.0" rev-constraint-dynamic="2.2.0" callerrev="1.0"/>
@@ -343,6 +343,131 @@
 					</artifact>
 					<artifact name="scalatest_2.11" type="jar" ext="jar" status="no" details="" size="7135753" time="0" location="/home/lorenzo/.ivy2/cache/org.scalatest/scalatest_2.11/jars/scalatest_2.11-2.2.0.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.0/scalatest_2.11-2.2.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.kamon" name="kamon-core_2.11">
+			<revision name="0.3.2" status="release" pubdate="20140730005502" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://kamon.io" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="19">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3915" time="0" location="/home/lorenzo/.ivy2/cache/io.kamon/kamon-core_2.11/ivy-0.3.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/io/kamon/kamon-core_2.11/0.3.2/kamon-core_2.11-0.3.2.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="0.3.2" rev-constraint-default="0.3.2" rev-constraint-dynamic="0.3.2" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="kamon-core_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="836077" time="0" location="/home/lorenzo/.ivy2/cache/io.kamon/kamon-core_2.11/docs/kamon-core_2.11-0.3.2-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/kamon/kamon-core_2.11/0.3.2/kamon-core_2.11-0.3.2-javadoc.jar"/>
+					</artifact>
+					<artifact name="kamon-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="46082" time="0" location="/home/lorenzo/.ivy2/cache/io.kamon/kamon-core_2.11/srcs/kamon-core_2.11-0.3.2-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/kamon/kamon-core_2.11/0.3.2/kamon-core_2.11-0.3.2-sources.jar"/>
+					</artifact>
+					<artifact name="kamon-core_2.11" type="jar" ext="jar" status="no" details="" size="395643" time="0" location="/home/lorenzo/.ivy2/cache/io.kamon/kamon-core_2.11/jars/kamon-core_2.11-0.3.2.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/kamon/kamon-core_2.11/0.3.2/kamon-core_2.11-0.3.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.gatling" name="jsr166e">
+			<revision name="1.0" status="release" pubdate="20131130175129" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/gatling/jsr166e" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="23">
+				<license name="Public Domain" url="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<metadata-artifact status="no" details="" size="3662" time="0" location="/home/lorenzo/.ivy2/cache/io.gatling/jsr166e/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/io/gatling/jsr166e/1.0/jsr166e-1.0.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="jsr166e" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="157094" time="0" location="/home/lorenzo/.ivy2/cache/io.gatling/jsr166e/srcs/jsr166e-1.0-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/gatling/jsr166e/1.0/jsr166e-1.0-sources.jar"/>
+					</artifact>
+					<artifact name="jsr166e" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="293383" time="0" location="/home/lorenzo/.ivy2/cache/io.gatling/jsr166e/docs/jsr166e-1.0-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/gatling/jsr166e/1.0/jsr166e-1.0-javadoc.jar"/>
+					</artifact>
+					<artifact name="jsr166e" type="jar" ext="jar" status="no" details="" size="230040" time="0" location="/home/lorenzo/.ivy2/cache/io.gatling/jsr166e/jars/jsr166e-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/gatling/jsr166e/1.0/jsr166e-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.hdrhistogram" name="HdrHistogram">
+			<revision name="1.0.8" status="release" pubdate="20131127132026" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://giltene.github.io/HdrHistogram/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="22">
+				<license name="Public Domain, per Creative Commons CC0" url="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<metadata-artifact status="no" details="" size="3603" time="0" location="/home/lorenzo/.ivy2/cache/org.hdrhistogram/HdrHistogram/ivy-1.0.8.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/hdrhistogram/HdrHistogram/1.0.8/HdrHistogram-1.0.8.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0.8" rev-constraint-default="1.0.8" rev-constraint-dynamic="1.0.8" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="HdrHistogram" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="126164" time="0" location="/home/lorenzo/.ivy2/cache/org.hdrhistogram/HdrHistogram/docs/HdrHistogram-1.0.8-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/hdrhistogram/HdrHistogram/1.0.8/HdrHistogram-1.0.8-javadoc.jar"/>
+					</artifact>
+					<artifact name="HdrHistogram" type="jar" ext="jar" status="no" details="" size="32613" time="0" location="/home/lorenzo/.ivy2/cache/org.hdrhistogram/HdrHistogram/jars/HdrHistogram-1.0.8.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/hdrhistogram/HdrHistogram/1.0.8/HdrHistogram-1.0.8.jar"/>
+					</artifact>
+					<artifact name="HdrHistogram" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="33669" time="0" location="/home/lorenzo/.ivy2/cache/org.hdrhistogram/HdrHistogram/srcs/HdrHistogram-1.0.8-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/hdrhistogram/HdrHistogram/1.0.8/HdrHistogram-1.0.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.aspectj" name="aspectjweaver">
+			<revision name="1.7.4" status="release" pubdate="20131031020355" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.aspectj.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="21">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2391" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjweaver/ivy-1.7.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.7.4" rev-constraint-default="1.7.4" rev-constraint-dynamic="1.7.4" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="aspectjweaver" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1413297" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjweaver/srcs/aspectjweaver-1.7.4-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar"/>
+					</artifact>
+					<artifact name="aspectjweaver" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2940423" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjweaver/docs/aspectjweaver-1.7.4-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-javadoc.jar"/>
+					</artifact>
+					<artifact name="aspectjweaver" type="jar" ext="jar" status="no" details="" size="1850391" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjweaver/jars/aspectjweaver-1.7.4.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.aspectj" name="aspectjrt">
+			<revision name="1.7.4" status="release" pubdate="20131031015637" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.aspectj.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="20">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2383" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjrt/ivy-1.7.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.7.4/aspectjrt-1.7.4.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.7.4" rev-constraint-default="1.7.4" rev-constraint-dynamic="1.7.4" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="aspectjrt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="107439" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjrt/srcs/aspectjrt-1.7.4-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.7.4/aspectjrt-1.7.4-sources.jar"/>
+					</artifact>
+					<artifact name="aspectjrt" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="327583" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjrt/docs/aspectjrt-1.7.4-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.7.4/aspectjrt-1.7.4-javadoc.jar"/>
+					</artifact>
+					<artifact name="aspectjrt" type="jar" ext="jar" status="no" details="" size="119683" time="0" location="/home/lorenzo/.ivy2/cache/org.aspectj/aspectjrt/jars/aspectjrt-1.7.4.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.7.4/aspectjrt-1.7.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.slick" name="slick_2.11">
+			<revision name="2.1.0" status="release" pubdate="20140804155149" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://slick.typesafe.com" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="17">
+				<license name="Two-clause BSD-style license" url="http://github.com/slick/slick/blob/master/LICENSE.txt"/>
+				<metadata-artifact status="no" details="" size="2954" time="0" location="/home/lorenzo/.ivy2/cache/com.typesafe.slick/slick_2.11/ivy-2.1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/slick/slick_2.11/2.1.0/slick_2.11-2.1.0.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="2.1.0" rev-constraint-default="2.1.0" rev-constraint-dynamic="2.1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="slick_2.11" type="jar" ext="jar" status="no" details="" size="3739462" time="0" location="/home/lorenzo/.ivy2/cache/com.typesafe.slick/slick_2.11/jars/slick_2.11-2.1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/slick/slick_2.11/2.1.0/slick_2.11-2.1.0.jar"/>
+					</artifact>
+					<artifact name="slick_2.11" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="5386475" time="0" location="/home/lorenzo/.ivy2/cache/com.typesafe.slick/slick_2.11/docs/slick_2.11-2.1.0-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/slick/slick_2.11/2.1.0/slick_2.11-2.1.0-javadoc.jar"/>
+					</artifact>
+					<artifact name="slick_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="230551" time="0" location="/home/lorenzo/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-2.1.0-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/slick/slick_2.11/2.1.0/slick_2.11-2.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.slf4j" name="slf4j-api">
+			<revision name="1.6.4" status="release" pubdate="20111101064538" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.slf4j.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="18">
+				<metadata-artifact status="no" details="" size="4338" time="0" location="/home/lorenzo/.ivy2/cache/org.slf4j/slf4j-api/ivy-1.6.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.pom"/>
+				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.6.4" rev-constraint-default="1.6.4" rev-constraint-dynamic="1.6.4" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="slf4j-api" type="jar" ext="jar" status="no" details="" size="25962" time="0" location="/home/lorenzo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.4.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar"/>
+					</artifact>
+					<artifact name="slf4j-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="46413" time="0" location="/home/lorenzo/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.6.4-sources.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar"/>
+					</artifact>
+					<artifact name="slf4j-api" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="182332" time="0" location="/home/lorenzo/.ivy2/cache/org.slf4j/slf4j-api/docs/slf4j-api-1.6.4-javadoc.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -384,7 +509,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scalacheck" name="scalacheck_2.11">
-			<revision name="1.11.3" status="release" pubdate="20140417051713" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalacheck.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="33">
+			<revision name="1.11.3" status="release" pubdate="20140417051713" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalacheck.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="40">
 				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
 				<metadata-artifact status="no" details="" size="2823" time="0" location="/home/lorenzo/.ivy2/cache/org.scalacheck/scalacheck_2.11/ivy-1.11.3.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.11.3/scalacheck_2.11-1.11.3.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.11.3" rev-constraint-default="1.11.3" rev-constraint-dynamic="1.11.3" callerrev="1.0"/>
@@ -402,7 +527,7 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-sbt" name="test-interface">
-			<revision name="1.0" status="release" pubdate="20130629064435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="34">
+			<revision name="1.0" status="release" pubdate="20130629064435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="41">
 				<license name="BSD" url="https://github.com/sbt/test-interface/blob/master/LICENSE"/>
 				<metadata-artifact status="no" details="" size="2589" time="0" location="/home/lorenzo/.ivy2/cache/org.scala-sbt/test-interface/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
@@ -648,7 +773,7 @@
 			</revision>
 		</module>
 		<module organisation="junit" name="junit">
-			<revision name="4.11" status="release" pubdate="20121114202147" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://junit.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="38">
+			<revision name="4.11" status="release" pubdate="20121114202147" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://junit.org" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="45">
 				<license name="Common Public License Version 1.0" url="http://www.opensource.org/licenses/cpl1.0.txt"/>
 				<metadata-artifact status="no" details="" size="2754" time="0" location="/home/lorenzo/.ivy2/cache/junit/junit/ivy-4.11.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/junit/junit/4.11/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="4.11" rev-constraint-default="4.11" rev-constraint-dynamic="4.11" callerrev="1.0"/>
@@ -666,7 +791,7 @@
 			</revision>
 		</module>
 		<module organisation="org.hamcrest" name="hamcrest-core">
-			<revision name="1.3" status="release" pubdate="20120709230802" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="35">
+			<revision name="1.3" status="release" pubdate="20120709230802" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="42">
 				<metadata-artifact status="no" details="" size="2387" time="0" location="/home/lorenzo/.ivy2/cache/org.hamcrest/hamcrest-core/ivy-1.3.xml" searched="false" origin-is-local="false" origin-location="file:/home/lorenzo/Development/JavaWorkingDir/Scala/activator-1.2.1/repository/org.hamcrest/hamcrest-core/1.3/ivys/ivy.xml"/>
 				<caller organisation="com.enzo" name="market-data-core$sources_javadoc_2.11" conf="test, compile, runtime" rev="1.3" rev-constraint-default="1.3" rev-constraint-dynamic="1.3" callerrev="1.0"/>
 				<artifacts>

@@ -69,6 +69,13 @@
     <orderEntry type="library" scope="TEST" name="SBT: SBT: org.scala-sbt:test-interface:1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: SBT: org.ow2.asm:asm-analysis:4.1" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: SBT: org.parboiled:parboiled-java:1.1.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: com.typesafe.slick:slick_2.11:2.1.0" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.slf4j:slf4j-api:1.6.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.hdrhistogram:HdrHistogram:1.0.8" level="project" />
+    <orderEntry type="library" name="SBT: SBT: io.kamon:kamon-core_2.11:0.3.2" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.aspectj:aspectjweaver:1.7.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: org.aspectj:aspectjrt:1.7.4" level="project" />
+    <orderEntry type="library" name="SBT: SBT: io.gatling:jsr166e:1.0" level="project" />
   </component>
   <component name="POM File Configuration" pomFile="" />
 </module>

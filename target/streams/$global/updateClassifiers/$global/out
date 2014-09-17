@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37c394ef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cc7be9
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.2
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.2
 [debug] 	found org.scala-lang#scala-library;2.11.2 in sbt-chain
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->joda-time#joda-time;2.0 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bfa335e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@aa6c437
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.0
 [debug] 	local: revision in cache: joda-time#joda-time;2.0
 [debug] 	found joda-time#joda-time;2.0 in sbt-chain
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->joda-time#joda-time;2.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.5 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70468f86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@291cbbc1
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.5
 [debug] 	local: revision in cache: org.joda#joda-convert;1.5
 [debug] 	found org.joda#joda-convert;1.5 in sbt-chain
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6347e1e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@331dfc63
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	local: revision in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.lmax#disruptor;3.2.0 [compile->default(compile)]
 [info] Resolving com.lmax#disruptor;3.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27e5d1e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58e17e48
 [debug] sbt-chain: module revision found in cache: com.lmax#disruptor;3.2.0
 [debug] 	local: revision in cache: com.lmax#disruptor;3.2.0
 [debug] 	found com.lmax#disruptor;3.2.0 in sbt-chain
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.lmax#disruptor;3.2.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.4 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-testkit_2.11;2.3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a41d175
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73eba297
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.3.4
 [debug] 	local: revision in cache: com.typesafe.akka#akka-testkit_2.11;2.3.4
 [debug] 	found com.typesafe.akka#akka-testkit_2.11;2.3.4 in sbt-chain
@@ -61,7 +61,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.4 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;0.6 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream-experimental_2.11;0.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c5033d0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7798d3e6
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream-experimental_2.11;0.6
 [debug] 	local: revision in cache: com.typesafe.akka#akka-stream-experimental_2.11;0.6
 [debug] 	found com.typesafe.akka#akka-stream-experimental_2.11;0.6 in sbt-chain
@@ -70,7 +70,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream-experimental_2.11;0.6 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.5 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@442c6cf6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@147695dc
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.5
 [debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.3.5
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.5 in sbt-chain
@@ -79,7 +79,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f730d1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@564729f2
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5
 [debug] 	local: revision in cache: com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5
 [debug] 	found com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 in sbt-chain
@@ -88,7 +88,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence-experimental_2.11;2.3.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114c0c74
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ca52379
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb;0.5
 [debug] 	local: revision in cache: org.iq80.leveldb#leveldb;0.5
 [debug] 	found org.iq80.leveldb#leveldb;0.5 in sbt-chain
@@ -97,7 +97,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb;0.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb-api;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@530c837c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17424308
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb-api;0.5
 [debug] 	local: revision in cache: org.iq80.leveldb#leveldb-api;0.5
 [debug] 	found org.iq80.leveldb#leveldb-api;0.5 in sbt-chain
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.iq80.leveldb#leveldb-api;0.5 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;12.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37885e37
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@210ab883
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;12.0
 [debug] 	local: revision in cache: com.google.guava#guava;12.0
 [debug] 	found com.google.guava#guava;12.0 in sbt-chain
@@ -115,7 +115,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.guava#guava;12.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1feae216
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a7951ce
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7
 [debug] 	local: revision in cache: org.fusesource.leveldbjni#leveldbjni-all;1.7
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.7 in sbt-chain
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.7 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e8ba95b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bc4a19a
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni;1.7
 [debug] 	local: revision in cache: org.fusesource.leveldbjni#leveldbjni;1.7
 [debug] 	found org.fusesource.leveldbjni#leveldbjni;1.7 in sbt-chain
@@ -133,7 +133,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.leveldbjni#leveldbjni;1.7 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.hawtjni#hawtjni-runtime;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fe7801c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@574e0984
 [debug] sbt-chain: module revision found in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8
 [debug] 	local: revision in cache: org.fusesource.hawtjni#hawtjni-runtime;1.8
 [debug] 	found org.fusesource.hawtjni#hawtjni-runtime;1.8 in sbt-chain
@@ -142,7 +142,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.fusesource.hawtjni#hawtjni-runtime;1.8 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22f70465
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48c60653
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	local: revision in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
@@ -151,13 +151,76 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;0.4.0.M1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3214163e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b3533c7
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;0.4.0.M1
 [debug] 	local: revision in cache: org.reactivestreams#reactive-streams;0.4.0.M1
 [debug] 	found org.reactivestreams#reactive-streams;0.4.0.M1 in sbt-chain
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[info] Resolving com.typesafe.slick#slick_2.11;2.1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5704e95d
+[debug] sbt-chain: module revision found in cache: com.typesafe.slick#slick_2.11;2.1.0
+[debug] 	local: revision in cache: com.typesafe.slick#slick_2.11;2.1.0
+[debug] 	found com.typesafe.slick#slick_2.11;2.1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[info] Resolving org.slf4j#slf4j-api;1.6.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2984c696
+[debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.6.4
+[debug] 	local: revision in cache: org.slf4j#slf4j-api;1.6.4
+[debug] 	found org.slf4j#slf4j-api;1.6.4 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[info] Resolving io.kamon#kamon-core_2.11;0.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d914af8
+[debug] sbt-chain: module revision found in cache: io.kamon#kamon-core_2.11;0.3.2
+[debug] 	local: revision in cache: io.kamon#kamon-core_2.11;0.3.2
+[debug] 	found io.kamon#kamon-core_2.11;0.3.2 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[info] Resolving org.aspectj#aspectjrt;1.7.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d9fef90
+[debug] sbt-chain: module revision found in cache: org.aspectj#aspectjrt;1.7.4
+[debug] 	local: revision in cache: org.aspectj#aspectjrt;1.7.4
+[debug] 	found org.aspectj#aspectjrt;1.7.4 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[info] Resolving org.aspectj#aspectjweaver;1.7.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77a6e035
+[debug] sbt-chain: module revision found in cache: org.aspectj#aspectjweaver;1.7.4
+[debug] 	local: revision in cache: org.aspectj#aspectjweaver;1.7.4
+[debug] 	found org.aspectj#aspectjweaver;1.7.4 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[info] Resolving org.hdrhistogram#HdrHistogram;1.0.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@656cda7e
+[debug] sbt-chain: module revision found in cache: org.hdrhistogram#HdrHistogram;1.0.8
+[debug] 	local: revision in cache: org.hdrhistogram#HdrHistogram;1.0.8
+[debug] 	found org.hdrhistogram#HdrHistogram;1.0.8 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[info] Resolving io.gatling#jsr166e;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61a25e1
+[debug] sbt-chain: module revision found in cache: io.gatling#jsr166e;1.0
+[debug] 	local: revision in cache: io.gatling#jsr166e;1.0
+[debug] 	found io.gatling#jsr166e;1.0 in sbt-chain
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [runtime]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [compile]
@@ -229,6 +292,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->compile]
@@ -297,6 +388,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [test]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [runtime]
@@ -369,6 +488,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->compile]
@@ -437,6 +584,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->compile]
@@ -505,9 +680,37 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ba73bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2254d067
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.0
 [debug] 	local: revision in cache: org.scalatest#scalatest_2.11;2.2.0
 [debug] 	found org.scalatest#scalatest_2.11;2.2.0 in sbt-chain
@@ -516,7 +719,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->default(compile)]
 [info] Resolving org.specs2#specs2_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@190b46ef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e04e26c
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2_2.11;2.4.2
 [debug] 	local: revision in cache: org.specs2#specs2_2.11;2.4.2
 [debug] 	found org.specs2#specs2_2.11;2.4.2 in sbt-chain
@@ -525,7 +728,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.4.2 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fd999dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ee300d7
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.2
 [debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.2
 [debug] 	found org.scala-lang#scala-compiler;2.11.2 in sbt-chain
@@ -534,7 +737,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.2 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a37bfcd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e3c15ea
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2
 [debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.2
 [debug] 	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain
@@ -544,7 +747,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.2 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3adb1ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34891c4a
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
@@ -553,7 +756,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73e4953a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4601ec11
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
@@ -562,7 +765,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->default(compile)]
 [info] Resolving org.pegdown#pegdown;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d00772f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2689338e
 [debug] sbt-chain: module revision found in cache: org.pegdown#pegdown;1.2.1
 [debug] 	local: revision in cache: org.pegdown#pegdown;1.2.1
 [debug] 	found org.pegdown#pegdown;1.2.1 in sbt-chain
@@ -571,7 +774,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->default(compile)]
 [info] Resolving org.parboiled#parboiled-java;1.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@220e07c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@456f580
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-java;1.1.4
 [debug] 	local: revision in cache: org.parboiled#parboiled-java;1.1.4
 [debug] 	found org.parboiled#parboiled-java;1.1.4 in sbt-chain
@@ -580,7 +783,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->default(compile)]
 [info] Resolving org.parboiled#parboiled-core;1.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e07110b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25476c22
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.4
 [debug] 	local: revision in cache: org.parboiled#parboiled-core;1.1.4
 [debug] 	found org.parboiled#parboiled-core;1.1.4 in sbt-chain
@@ -589,7 +792,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->default(compile)]
 [info] Resolving org.ow2.asm#asm;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d07aa47
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8245ae8
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm;4.1
 [debug] 	found org.ow2.asm#asm;4.1 in sbt-chain
@@ -598,7 +801,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->default(compile)]
 [info] Resolving org.ow2.asm#asm-tree;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71984ab4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@df447d2
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-tree;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm-tree;4.1
 [debug] 	found org.ow2.asm#asm-tree;4.1 in sbt-chain
@@ -607,7 +810,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->default(compile)]
 [info] Resolving org.ow2.asm#asm-analysis;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@697f9ed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b651ab4
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-analysis;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm-analysis;4.1
 [debug] 	found org.ow2.asm#asm-analysis;4.1 in sbt-chain
@@ -616,7 +819,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->default(compile)]
 [info] Resolving org.ow2.asm#asm-util;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ba142a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b029a38
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-util;4.1
 [debug] 	local: revision in cache: org.ow2.asm#asm-util;4.1
 [debug] 	found org.ow2.asm#asm-util;4.1 in sbt-chain
@@ -625,7 +828,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dcdc64f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6101dfa3
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.1.0
 [debug] 	local: revision in cache: org.scalaz#scalaz-core_2.11;7.1.0
 [debug] 	found org.scalaz#scalaz-core_2.11;7.1.0 in sbt-chain
@@ -634,7 +837,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-concurrent_2.11;7.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@653c1462
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b044b
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.1.0
 [debug] 	local: revision in cache: org.scalaz#scalaz-concurrent_2.11;7.1.0
 [debug] 	found org.scalaz#scalaz-concurrent_2.11;7.1.0 in sbt-chain
@@ -643,7 +846,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-effect_2.11;7.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@104206c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@101b69d3
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.1.0
 [debug] 	local: revision in cache: org.scalaz#scalaz-effect_2.11;7.1.0
 [debug] 	found org.scalaz#scalaz-effect_2.11;7.1.0 in sbt-chain
@@ -652,7 +855,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->default(compile)]
 [info] Resolving org.scalacheck#scalacheck_2.11;1.11.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b69be40
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fd47450
 [debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.11;1.11.3
 [debug] 	local: revision in cache: org.scalacheck#scalacheck_2.11;1.11.3
 [debug] 	found org.scalacheck#scalacheck_2.11;1.11.3 in sbt-chain
@@ -661,7 +864,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51b4589
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3384582b
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
@@ -670,7 +873,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@626a603b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@da2c3c3
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
@@ -679,7 +882,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
 [info] Resolving org.mockito#mockito-core;1.9.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@365d7762
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50e64c98
 [debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
 [debug] 	local: revision in cache: org.mockito#mockito-core;1.9.5
 [debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
@@ -688,7 +891,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4655525f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f926252
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.0
 [debug] 	local: revision in cache: org.objenesis#objenesis;1.0
 [debug] 	found org.objenesis#objenesis;1.0 in sbt-chain
@@ -697,7 +900,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->default(compile)]
 [info] Resolving junit#junit;4.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c67f327
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3efd1c9e
 [debug] sbt-chain: module revision found in cache: junit#junit;4.11
 [debug] 	local: revision in cache: junit#junit;4.11
 [debug] 	found junit#junit;4.11 in sbt-chain
@@ -706,7 +909,7 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->default(compile)]
 [info] Resolving org.specs2#classycle;1.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ba33309
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d433a5a
 [debug] sbt-chain: module revision found in cache: org.specs2#classycle;1.4.3
 [debug] 	local: revision in cache: org.specs2#classycle;1.4.3
 [debug] 	found org.specs2#classycle;1.4.3 in sbt-chain
@@ -788,6 +991,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [compile-internal->default(compile)]
@@ -858,6 +1089,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile-internal->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile-internal->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [runtime]
@@ -930,6 +1189,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->compile]
@@ -998,6 +1285,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->master]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime-internal->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime-internal->runtime]
@@ -1067,6 +1382,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime-internal->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime-internal->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [test-internal]
 [debug] == resolving dependencies for com.enzo#market-data-core$sources_javadoc_2.11;1.0 [test]
@@ -1140,6 +1483,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [compile->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [compile->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [runtime->compile]
@@ -1208,6 +1579,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [runtime->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [runtime->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.2 [test->compile]
@@ -1276,6 +1675,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test->compile]
@@ -1438,6 +1865,34 @@
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test-internal->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test-internal->compile]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;0.4.0.M1 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;2.1.0 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.kamon#kamon-core_2.11;0.3.2 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjrt;1.7.4 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.aspectj#aspectjweaver;1.7.4 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.hdrhistogram#HdrHistogram;1.0.8 [test-internal->master]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test-internal->runtime]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test-internal->compile]
+[debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->io.gatling#jsr166e;1.0 [test-internal->master]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->default(compile)]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->runtime]
 [debug] == resolving dependencies com.enzo#market-data-core$sources_javadoc_2.11;1.0->org.scalatest#scalatest_2.11;2.2.0 [test-internal->compile]
@@ -1622,6 +2077,27 @@
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;0.4.0.M1!reactive-streams.jar(doc)
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;0.4.0.M1!reactive-streams.jar
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;0.4.0.M1!reactive-streams.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.slick#slick_2.11;2.1.0!slick_2.11.jar
+[debug] 	[NOT REQUIRED] com.typesafe.slick#slick_2.11;2.1.0!slick_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.slick#slick_2.11;2.1.0!slick_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar(doc)
+[debug] 	[NOT REQUIRED] io.kamon#kamon-core_2.11;0.3.2!kamon-core_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] io.kamon#kamon-core_2.11;0.3.2!kamon-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] io.kamon#kamon-core_2.11;0.3.2!kamon-core_2.11.jar
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjrt;1.7.4!aspectjrt.jar(src)
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjrt;1.7.4!aspectjrt.jar(doc)
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjrt;1.7.4!aspectjrt.jar
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjweaver;1.7.4!aspectjweaver.jar(src)
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjweaver;1.7.4!aspectjweaver.jar(doc)
+[debug] 	[NOT REQUIRED] org.aspectj#aspectjweaver;1.7.4!aspectjweaver.jar
+[debug] 	[NOT REQUIRED] org.hdrhistogram#HdrHistogram;1.0.8!HdrHistogram.jar(doc)
+[debug] 	[NOT REQUIRED] org.hdrhistogram#HdrHistogram;1.0.8!HdrHistogram.jar
+[debug] 	[NOT REQUIRED] org.hdrhistogram#HdrHistogram;1.0.8!HdrHistogram.jar(src)
+[debug] 	[NOT REQUIRED] io.gatling#jsr166e;1.0!jsr166e.jar(src)
+[debug] 	[NOT REQUIRED] io.gatling#jsr166e;1.0!jsr166e.jar(doc)
+[debug] 	[NOT REQUIRED] io.gatling#jsr166e;1.0!jsr166e.jar
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.0!scalatest_2.11.jar
@@ -1693,7 +2169,7 @@
 [debug] 	[NOT REQUIRED] org.specs2#classycle;1.4.3!classycle.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
-[debug] :: resolution report :: resolve 964ms :: artifacts dl 83ms
+[debug] :: resolution report :: resolve 978ms :: artifacts dl 94ms
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 compile produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-compile.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 runtime produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-runtime.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 test produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-test.xml
@@ -1707,4 +2183,4 @@
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 docs produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-docs.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 pom produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-pom.xml
 [debug] 	report for com.enzo#market-data-core$sources_javadoc_2.11;1.0 scala-tool produced in /home/lorenzo/Development/JavaWorkingDir/Trading/market-data-core/target/resolution-cache/reports/com.enzo-market-data-core$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (964ms resolve - 83ms download)
+[debug] 	resolve done (978ms resolve - 94ms download)
